@@ -1,7 +1,7 @@
 # conversation-setup-prompts
 Prompt templates for the conversation setup of ainflask chat agent
 
-(ainflask.com)[ainflask.com] will directly read this Github repo to populate some chat agent templates, feel free to create issues with your suggestions or directly pull requests for other better prompt templates
+[ainflask](https://ainflask.com) will directly read this Github repo to populate some chat agent templates, feel free to create issues with your suggestions or directly pull requests for other better prompt templates
 
 `version.txt` in top level keep track of file structure (right now just a flat list of templates, no other hierarchical groupings yet), don't change
 
