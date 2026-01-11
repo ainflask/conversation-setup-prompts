@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "This is a sample brainstorm idea and seeking agentic advices.",
+  "scenario": "I have an idea for a new product, but it's still very vague. I need help brainstorming and fleshing it out.",
+  "problem": "I want to create a 'smart' coffee mug that keeps my drink at the perfect temperature, but I'm not sure what features would be most compelling or how to make it stand out in the market.",
+  "goal": "Brainstorm a list of innovative features, potential target audiences, and a unique value proposition for my smart coffee mug concept. Help me define what makes it different and better than existing products.",
+  "constraints": "Think outside the box; no idea is too wild at this stage. The focus is on creativity and market differentiation, not technical feasibility for now. The brainstorming should generate at least 10 distinct feature ideas.",
+  "chat_hints": "Start by exploring different user personas (e.g., busy professionals, students, tech enthusiasts). For each persona, think about their daily routines and pain points. Generate ideas for features like personalized temperature presets, app integration, battery life indicators, spill-proof designs, or even a 'wake-up' light. Suggest a few potential brand names and marketing angles."
+}
