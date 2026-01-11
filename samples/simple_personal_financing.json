@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "description": "This is a smiple personal financing sample"
+    "scenario": "I want to create a simple budget to manage my personal finances.",
+    "problem": "I have a monthly income of $5,000 and want to understand where my money is going and how I can save more. I don't have a clear picture of my expenses.",
+    "goal": "Help me create a 50/30/20 budget (50% for needs, 30% for wants, 20% for savings) by categorizing my expenses and identifying areas for potential savings.",
+    "constraints": "The advice should be general and not constitute professional financial advice. The agent cannot ask for sensitive personal information like bank account details. The budget should be simple and easy to follow.",
+    "chat_hints": "Start by asking me to list my major monthly expenses (e.g., rent/mortgage, utilities, groceries, transportation, entertainment). Categorize each expense as a need or a want. Calculate the percentages for each category and compare them to the 50/30/20 rule. Suggest ways to reduce spending in the 'wants' category."
+}
