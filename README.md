@@ -1,9 +1,9 @@
 # conversation-setup-prompts
 Prompt templates for the conversation setup of ainflask chat agent
 
-ainflask.com will directly read this Github repo to populate some chat agent templates, feel free to create issues with your suggestions or directly pull requests for other better prompt templates
+[ainflask.com](ainflask.com) will directly read this Github repo to populate some chat agent templates, feel free to create issues with your suggestions or directly pull requests for other better prompt templates
 
-version.txt in top level keep track of file structure (right now just a flat list of templates, no other hierarchical groupings yet), don't change
+`version.txt` in top level keep track of file structure (right now just a flat list of templates, no other hierarchical groupings yet), don't change
 
 template file must be in JSON format and choose a crisp and descriptive name with all lowercase alpha-numeric with hypens only (for more descriptions, put into the description field of that JSON, refer below)
 
