@@ -7,7 +7,7 @@ Prompt templates for the conversation setup of ainflask chat agent
 
 template file must be in JSON format and choose a crisp and descriptive name with all lowercase alpha-numeric with underscores only (for more descriptions, put into the description field of that JSON, refer below)
 
-Each template just follow below formats (noted version must be 1.0.0 for now)
+Each template just follow below formats (noted version must be 1.0.0 for now), as agentic generated questions and answers can quickly go out of control, and verbose, recommend avoid putting too ambigous problems, be specific about the problem and goals, start small.
 
 ```
 {
