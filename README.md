@@ -17,6 +17,6 @@ Each template just follow below formats (noted version must be 1.0.0 for now)
    "problem": "This is your main problem to solve",
    "goal": "This is the outcome you want out of your problem",
    "constraints": "This is your explicit constraints you want to emphasize with your agent",
-   "chathints": "This is some extra chat instructions or hints you want to convey to your agent" 
+   "chat_hints": "This is some extra chat instructions or hints you want to convey to your agent" 
 }
 ```
