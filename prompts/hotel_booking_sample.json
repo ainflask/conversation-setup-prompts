@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "description": "A sample hotel booking conversation setup"
+    "scenario": "I want to book a hotel for my upcoming trip.",
+    "problem": "I need to find a pet-friendly hotel in San Francisco for 2 adults from March 10th to March 15th, with a budget of under $300 per night.",
+    "goal": "Find and present me with a list of suitable hotel options that meet all my criteria (location, dates, pet-friendly, budget).",
+    "constraints": "Only show hotels with a rating of 4 stars or higher. The final price must include all taxes and fees. Do not book without my final confirmation.",
+    "chat_hints": "Start by confirming the key details (city, dates, number of guests, pet-friendly). Search booking websites and filter based on the criteria. Present the top 3 options with their names, prices, and a brief description.",
+    "max_turns": 8
+}
