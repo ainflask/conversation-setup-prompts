@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "description": "This is tech system design sample",
+    "scenario": "I need to design the technical architecture for a new web application.",
+    "problem": "I am building a social media platform for sharing photos and videos. I need a scalable and cost-effective architecture that can handle millions of users.",
+    "goal": "Propose a high-level architecture design that includes recommendations for the frontend framework, backend services, database, and cloud infrastructure.",
+    "constraints": "The architecture must be based on a microservices pattern. It should use open-source technologies where possible. The initial infrastructure cost should be minimized.",
+    "chat_hints": "Start by clarifying the core features of the platform (e.g., user profiles, photo/video uploads, feeds, likes, comments). Recommend a technology stack (e.g., React for frontend, Node.js or Go for backend, PostgreSQL for database, and AWS or Google Cloud for hosting). Sketch out the main microservices (e.g., users, posts, media, notifications)."
+}
