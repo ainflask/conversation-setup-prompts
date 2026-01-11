@@ -1,0 +1,8 @@
+{
+    "version": "1.0.0",
+    "scenario": "I want to learn a new skill or subject.",
+    "problem": "I want to learn the Python programming language from scratch. I have no prior coding experience and want to be able to build a simple web scraper within 30 days.",
+    "goal": "Create a personalized 30-day learning plan for me, including daily topics, recommended resources (tutorials, videos, exercises), and a mini-project for each week.",
+    "constraints": "The learning plan should require no more than 1-2 hours of study per day. All recommended resources must be free. The plan should be structured for a complete beginner.",
+    "chat_hints": "Start by breaking down the learning process into four weeks. Week 1: Python basics (syntax, data types, control flow). Week 2: Data structures (lists, dictionaries) and functions. Week 3: Web scraping libraries (Beautiful Soup, Requests). Week 4: Building the web scraper project. Provide specific links to resources for each day's topic."
+}
