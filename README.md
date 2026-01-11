@@ -5,7 +5,7 @@ Prompt templates for the conversation setup of ainflask chat agent
 
 `version.txt` in top level keep track of file structure (right now just a flat list of templates, no other hierarchical groupings yet), don't change
 
-template file must be in JSON format and choose a crisp and descriptive name with all lowercase alpha-numeric with hypens only (for more descriptions, put into the description field of that JSON, refer below)
+template file must be in JSON format and choose a crisp and descriptive name with all lowercase alpha-numeric with underscores only (for more descriptions, put into the description field of that JSON, refer below)
 
 Each template just follow below formats (noted version must be 1.0.0 for now)
 
