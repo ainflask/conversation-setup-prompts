@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
   "description": "This is a sample brainstorm idea and seeking agentic advices.",
-  "scenario": "I have an idea for a new product, but it's still very vague. I need help brainstorming and fleshing it out.",
-  "problem": "I want to create a 'smart' coffee mug that keeps my drink at the perfect temperature, but I'm not sure what features would be most compelling or how to make it stand out in the market.",
-  "goal": "Brainstorm a list of innovative features, potential target audiences, and a unique value proposition for my smart coffee mug concept. Help me define what makes it different and better than existing products.",
-  "constraints": "Think outside the box; no idea is too wild at this stage. The focus is on creativity and market differentiation, not technical feasibility for now. The brainstorming should generate at least 10 distinct feature ideas.",
-  "chat_hints": "Start by exploring different user personas (e.g., busy professionals, students, tech enthusiasts). For each persona, think about their daily routines and pain points. Generate ideas for features like personalized temperature presets, app integration, battery life indicators, spill-proof designs, or even a 'wake-up' light. Suggest a few potential brand names and marketing angles."
+  "scenario": "I have an idea for a new product and need help refining it.",
+  "problem": "I want to create a smart coffee mug that keeps drinks at my preferred temperature. My target customers are remote workers aged 25-40 who drink 3+ cups of coffee per day. My budget for manufacturing is $25 per unit, and I want to sell it for under $80.",
+  "goal": "Generate exactly 5 key features that would make this product compelling, suggest 3 potential brand names, and identify the top 2 competitors I should research.",
+  "constraints": "Focus only on features that are technically feasible with current technology and fit within the $25 manufacturing budget. Do not suggest features that require subscription services or ongoing costs.",
+  "chat_hints": "Consider features like: adjustable temperature settings (120-150°F range), battery life (minimum 4 hours), app connectivity for presets, LED temperature indicator, and dishwasher-safe design. For brand names, think about words related to warmth, precision, or daily routines. For competitors, look at Ember Mug and similar products."
 }
