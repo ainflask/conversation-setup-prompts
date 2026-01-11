@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "This is a sample math solving problem.",
+  "scenario": "I am studying for a calculus exam and I'm stuck on a practice problem.",
+  "problem": "I need to find the derivative of the function f(x) = (x^2 + 1) * sin(x). I'm not sure which differentiation rule to apply here.",
+  "goal": "Help me solve this problem by explaining the steps and the rules required. Show me the final answer.",
+  "constraints": "Explain the underlying rule clearly before applying it. Show the step-by-step differentiation process.",
+  "chat_hints": "Start by identifying that the function is a product of two other functions, (x^2 + 1) and sin(x). This means the Product Rule is needed. State the Product Rule formula: d/dx(u*v) = u*dv/dx + v*du/dx. Guide me through identifying u and v, finding their derivatives, and then plugging them into the formula to get the final result."
+}
