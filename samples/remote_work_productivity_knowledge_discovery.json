@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "description": "This is a sample knowledge discovery to learn more about remote work on employee productivity.",
+    "scenario": "I am looking for specific information to answer a question or support a decision.",
+    "problem": "I want to find recent scientific articles (published in the last 2 years) on the impact of remote work on employee productivity.",
+    "goal": "Provide me with a summary of the key findings from 3-5 relevant academic papers, including links to the original sources.",
+    "constraints": "Only use reputable sources like academic journals, conference proceedings, and university publications. Avoid blog posts and news articles. The summary should be neutral and objective.",
+    "chat_hints": "Start by searching academic databases like Google Scholar, arXiv, and PubMed. Use keywords like 'remote work', 'telecommuting', 'employee productivity', and 'work from home'. Synthesize the findings from the top papers into a concise summary."
+}
