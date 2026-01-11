@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "This is a sample family hause hunting.",
+  "scenario": "I am looking to buy a new family home and need help evaluating my options.",
+  "problem": "I want to find a 4-bedroom house in the 'Northwood High School' district with a budget of $1.2 million. I've found two potential properties: one is a newer build but smaller, and the other is older but has a larger yard. I'm struggling to decide.",
+  "goal": "Analyze and compare the two properties based on my priorities (school district, size, yard, age, potential for appreciation) and provide a recommendation on which one is a better fit for my family.",
+  "constraints": "The analysis must be objective, using publicly available data (e.g., property records, school ratings, market trends). Do not make the final decision for me, but provide a clear, data-driven comparison to help me decide.",
+  "chat_hints": "Start by asking for the addresses of the two properties. Gather data on each house, including property history, tax assessments, and local comparable sales. Create a comparison table summarizing the pros and cons of each option. Evaluate the trade-offs between a newer home and a larger lot."
+}
